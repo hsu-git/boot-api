@@ -3,8 +3,4 @@ spring:
     name: boot-api
   # ??? ??
   profiles:
-    active: dev # dev -> dockerfile?? ?? ? prod ??
-#  security:
-#    user:
-#      name: hello
-#      password: world
+    active: dev # dev -> DockerFile?? ??
