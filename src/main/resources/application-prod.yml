@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: boot-api
+  # ??? ??
+  profiles:
+    active: dev # dev -> dockerfile?? ?? ? prod ??
+#  security:
+#    user:
+#      name: hello
+#      password: world
